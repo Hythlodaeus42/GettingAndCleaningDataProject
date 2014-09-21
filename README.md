@@ -10,9 +10,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The data files are extracted into this folder structure:
 
-- UCI HAR Dataset
--- test
--- train
+	/UCI HAR Dataset
+		/test
+		/train
 
 The working directory should be set to the *UCI HAR Dataset* folder.
 
@@ -26,6 +26,7 @@ For more details, please see the accompanying code book.
 
 ###Processing the Data
 run_analysis.R follows this process:
+
 1. Read in data files
 2. Combine all data sets
 3. Reshape Data
