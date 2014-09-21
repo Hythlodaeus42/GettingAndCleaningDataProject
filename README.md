@@ -2,15 +2,17 @@
 =========================
 The run_analysis.R script takes data from the *Human Activity Recognition Using Smartphones* dataset.
 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 ###Downloading and Extracting the Data
 Data for the project was downloaded from here.
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The data files are extracted into this folder structure:
 
-UCI HAR Dataset
-- test
-- train
+-UCI HAR Dataset
+-- test
+-- train
 
 The working directory should be set to the *UCI HAR Dataset* folder.
 
